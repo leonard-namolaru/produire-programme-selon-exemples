@@ -1,1 +1,1 @@
-(executable (name genconcat) (modes byte exe))
+(executable (name getconcat) (modes byte exe))
